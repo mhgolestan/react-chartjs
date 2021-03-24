@@ -1,0 +1,11 @@
+.filter-box {
+  margin-top: 10px;
+  padding: 5px 5px;
+  border-radius: 8px;
+  box-shadow: 1px 1px 4px 0px #6f6f6f;
+}
+
+.filter-box > p {
+  margin: 5px 0;
+  font-weight: 600;
+}
